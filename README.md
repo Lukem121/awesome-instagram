@@ -40,6 +40,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Instagram Graph API](https://developers.facebook.com/docs/instagram-api) – Primary API for accessing Instagram Business account data.
 - [Instagram Basic Display API](https://developers.facebook.com/docs/instagram-basic-display-api) – Limited access to user profile and media.
 - [pyInstagram](https://github.com/facebookarchive/python-instagram) – Deprecated Python SDK for Instagram (historical reference).
+- [Social Fetch](https://www.socialfetch.dev) – A pay as you go API for public posts, profiles, comments and transcripts from Instagram, TikTok, YouTube, X, Reddit and LinkedIn.
 - [Instagram4j](https://github.com/Instagram4j/Instagram4j) – Java library for interacting with Instagram (Unofficial).
 - [Instaloader](https://github.com/instaloader/instaloader) – Download public Instagram photos, videos, and metadata.
 
